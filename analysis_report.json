@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "total_jobs": 3217,
+        "generated_at": "2025-06-15T19:40:47.415334",
+        "date_range": {
+            "min": "2025-05-16",
+            "max": "2025-06-14"
+        }
+    },
+    "contract_types": {
+        "counts": {
+            "ALTERNANCE": 1289,
+            "STAGE": 960,
+            "CDI": 416,
+            "OTHER": 373,
+            "CDD": 163,
+            "FREELANCE": 16
+        },
+        "percentages": {
+            "ALTERNANCE": 40.07,
+            "STAGE": 29.84,
+            "CDI": 12.93,
+            "OTHER": 11.59,
+            "CDD": 5.07,
+            "FREELANCE": 0.5
+        },
+        "total": 3217
+    },
+    "locations": {
+        "top_locations": {
+            "Télétravail / Remote": 1545,
+            "Paris": 1169,
+            "Marseille": 104,
+            "Nanterre": 100,
+            "Nantes": 67,
+            "Montreuil": 65,
+            "La Plaine Saint Denis": 64,
+            "Bordeaux": 39,
+            "Aix En Provence": 31,
+            "Niort": 6,
+            "Lille": 6,
+            "Lyon": 5,
+            "Toulouse": 4,
+            "Strasbourg": 3,
+            "Rennes": 2
+        },
+        "percentages": {
+            "Télétravail / Remote": 48.03,
+            "Paris": 36.34,
+            "Marseille": 3.23,
+            "Nanterre": 3.11,
+            "Nantes": 2.08,
+            "Montreuil": 2.02,
+            "La Plaine Saint Denis": 1.99,
+            "Bordeaux": 1.21,
+            "Aix En Provence": 0.96,
+            "Niort": 0.19,
+            "Lille": 0.19,
+            "Lyon": 0.16,
+            "Toulouse": 0.12,
+            "Strasbourg": 0.09,
+            "Rennes": 0.06
+        },
+        "unique_locations": 19,
+        "total": 3217
+    },
+    "salaries": {
+        "stats": {
+            "count": 1052,
+            "min": 10200.0,
+            "max": 11400.0,
+            "mean": 30421.89353612167,
+            "median": 18000.0,
+            "std": 21970.138915227675,
+            "percentage_with_salary": 32.70127447932857
+        },
+        "by_contract": [
+            {
+                "contract_type_std": "ALTERNANCE",
+                "mean": 20013.5593220339,
+                "median": 22000.0,
+                "count": 59
+            },
+            {
+                "contract_type_std": "CDD",
+                "mean": 46024.8447204969,
+                "median": 45000.0,
+                "count": 161
+            },
+            {
+                "contract_type_std": "CDI",
+                "mean": 55160.43956043956,
+                "median": 50000.0,
+                "count": 91
+            },
+            {
+                "contract_type_std": "FREELANCE",
+                "mean": 59200.0,
+                "median": 60000.0,
+                "count": 10
+            },
+            {
+                "contract_type_std": "OTHER",
+                "mean": 41658.50643776824,
+                "median": 16800.0,
+                "count": 233
+            },
+            {
+                "contract_type_std": "STAGE",
+                "mean": 16255.020080321285,
+                "median": 12000.0,
+                "count": 498
+            }
+        ]
+    },
+    "technologies": {
+        "counts": {
+            "python": 0,
+            "java": 0,
+            "javascript": 0,
+            "react": 0,
+            "angular": 0,
+            "vue": 0,
+            "node": 0,
+            "php": 0,
+            "sql": 0,
+            "nosql": 0,
+            "mongodb": 0,
+            "postgresql": 0,
+            "mysql": 0,
+            "aws": 0,
+            "azure": 0,
+            "gcp": 0,
+            "docker": 0,
+            "kubernetes": 0,
+            "devops": 0,
+            "machine_learning": 0,
+            "data_science": 0,
+            "ai": 0
+        },
+        "total_mentions": 0,
+        "percentage_with_tech": 0.0
+    },
+    "experience": {
+        "counts": {
+            "Tous niveaux d'expérience": 3020,
+            "SENIOR": 101,
+            "JUNIOR": 95,
+            "CONFIRMED": 1
+        },
+        "percentages": {
+            "Tous niveaux d'expérience": 93.88,
+            "SENIOR": 3.14,
+            "JUNIOR": 2.95,
+            "CONFIRMED": 0.03
+        },
+        "total": 3217,
+        "experience_years": {
+            "min_experience_avg": 2.5736040609137056,
+            "max_experience_avg": 2.03125,
+            "min_experience_median": 5.0,
+            "max_experience_median": 2.0,
+            "count_with_experience": 197,
+            "percentage_with_experience": 6.123717749456015
+        }
+    }
+}
